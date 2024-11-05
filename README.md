@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheMerret
-- 👀 I’m interested in 💀YOUR SOUL💀
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nuclear reactor software
-- 📫 You can reach om my email: merret@bk.ru
+- 👀 I’m interested in JavaScript Internals ⚙️ and Generative Art 🎨
+- 🌱 I’m currently learning TypeScript
+- 💞️ I’m looking to collaborate on QA Platform
+- 📫 You can reach om my telegram: [@TheMerret](https://t.me/TheMerret)
